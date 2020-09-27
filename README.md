@@ -31,4 +31,4 @@ The initial pattern constitutes the seed of the system. The first generation is 
 الگوی آغازین بازی به عنوان بذر سیستم به حساب می‌آید. اولین نسل در بازی با اعمال قوانین فوق بر تک تک سلول‌ها به صورت همزمان ایجاد می‌شود و در آن زاد و ولدها و مرگ و میرها اتفاق می‌افتد. این رویه تا ایجاد نسل‌های آینده ادامه می‌یابد. بدین ترتیب هر نسل تابعی از نسل ما قبل خود خواهد بود. 
 
 
-<img src=""https://en.wikipedia.org/wiki/File:Game_of_life_flower.svg />
+<img src="https://en.wikipedia.org/wiki/File:Game_of_life_flower.svg" />
